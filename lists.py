@@ -1,0 +1,9 @@
+empty_list=[]
+print(empty_list)
+list1=[1,2,3,4,5,6]
+print(list1)
+list2=[6,7,8,9]*3
+print(list2)
+list3=[12,13,14,15]
+list3=list3[::-1]
+print(list3)
