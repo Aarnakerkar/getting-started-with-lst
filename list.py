@@ -1,3 +1,6 @@
 list=[1,2,3]
+list1=[]
 for i in list:
-    list.math.sqrt()=i
+    x=i*i
+    list1.append(x)
+print(list1)
